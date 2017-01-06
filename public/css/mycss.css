@@ -1,0 +1,178 @@
+
+div.top-line {
+  width: 100%;
+  height: 10%;
+  padding: 0px 0px;
+  border: 10px solid blue;
+  border-radius: 0px;
+  box-sizing: border-box;
+}
+
+h4.main-topic{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: blink;
+    font-weight: bold;
+}
+h3.main-topic{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: blink;
+    font-weight: bold;
+}
+
+h4.producer{
+    text-align: left;
+    text-decoration: blink;
+    font-weight: bold;
+}
+
+p.topic-description{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%; 
+}
+p.email-description{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 17%;
+    margin-right: 17%; 
+}
+hr{
+    display: block;
+    margin-top:20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    border-style: solid;
+    border-width: 0.1px;
+}
+
+div.form-group {
+  width: 100%;
+  height: 100%;
+  padding: 5px 200px;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  box-sizing: border-box;
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+div.producer-details {
+  margin-top: 5px;
+}
+
+div.button-area {
+  margin-bottom: 50px;
+}
+
+div.form-section {
+  width: 100%;
+  height: 35px;
+  padding: 0px 0px;
+  margin: 8px 0;
+  display: inline-block;
+  /* border: 2px solid #ccc;*/ 
+   border-radius: 0px;
+  box-sizing: border-box; 
+}
+
+div.table-view1{
+  padding: 5px 5px;
+  float: left;
+}
+div.table-view2{
+  float: right;
+  padding: 5px 40px;
+  margin-bottom: 50px;
+}
+
+.input {
+    width: 76%;
+    height: 100%;
+    float: right;
+    font-size: 16px;
+    font-family: all;
+    padding-left: 5px;
+    box-sizing: border-box;
+    color: black;
+}
+
+.input1{
+    width: 100%;
+}
+
+.input2{
+    width: 100%;
+    border-radius: 0px;
+}
+
+.label {
+    width: 24%;
+    height: 100%;
+    float: left;
+    padding-top: 10px;
+}
+
+.label1{
+  padding-left: 20px;
+}
+
+.label2{
+  padding-left: 20px;
+}
+
+input[type="password"]{
+    width: 74.9%;
+    height: 99%;
+    float: right;
+    font-size: 16px;
+    font-family: all;
+    padding-left: 5px;
+}
+
+h4.subtitle{
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+select:not([size]):not([multiple]) {
+    box-sizing: content-box;
+}
+select:not([size]):not([multiple]), select[size="0"], select[size="1"] {
+    width: 12%;
+    height: 100%;
+    font-size: 18px;
+
+}
+
+button{
+    background-color: black; 
+    color: white;
+    border-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-content: center;
+    margin-left: 36%;
+}
+
+input[type="submit" i]{
+    background-color: black; 
+    color: white;
+    border-color: gray;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    align-content: center;
+    margin-left: 43%;
+}
+
+
+/*# sourceMappingURL=app.css.map */
